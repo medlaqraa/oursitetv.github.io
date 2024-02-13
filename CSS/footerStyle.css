@@ -68,6 +68,10 @@ ul{
     color: #24262b;
     background-color: #ffffff;
 }
+.footer-col input{
+    width:100%;
+    background-color:green;
+}
 @media(max-width: 767px){
     .footer-col{
         width: 50%;
